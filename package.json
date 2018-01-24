@@ -1,0 +1,16 @@
+{
+  "name": "spiral",
+  "version": "0.0.1",
+  "description": "spiral algorithm implementations R&D",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "author": "ToroCraft",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "chance": "^1.0.13",
+    "standard": "^10.0.3"
+  }
+}
